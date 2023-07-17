@@ -1,11 +1,11 @@
 # Mathexam
 Scheduling maths exam with CSP (Constraint Satisfaction Problem)
 
-Libraries
+<bold> Libraries
 
 pandas
 
-Install
+<bold> Install
 
 pip install pandas 
 
