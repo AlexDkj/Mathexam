@@ -14,3 +14,15 @@ pip install pandas
 or 
 
 pip3 install pandas
+
+<b> Run </b>
+
+python exam_csp.py -m fc or mac -i mrv or dom_wdeg
+
+or
+
+python exam_csp.py -m minconflicts -i mrv or dom_wdeg
+
+or
+
+run with python3
